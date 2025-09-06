@@ -74,6 +74,7 @@
 	micro
 	kitty
 	firefox
+	bat
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
