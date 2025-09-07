@@ -20,7 +20,7 @@
 
 			modules = [ 
 				./configuration.nix
-				./configuration2.nix 
+				#./configuration2.nix 
 			];
 
 		};
