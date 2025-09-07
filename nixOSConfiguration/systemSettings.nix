@@ -21,7 +21,7 @@
 
 	# Networking Options
 	networking = {
-		hostname = "ethan-nixos";
+		hostName = "ethan-nixos";
 		networkmanager.enable = true;
 	};
 
