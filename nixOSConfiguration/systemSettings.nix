@@ -1,7 +1,9 @@
 { config, pkgs, ...}:
 
 {
-	imports = [];
+	imports = [
+		/etc/nixos/hardware-configuration.nix
+	];
 
 	# Bootloader.
 	boot.loader.systemd-boot.enable = true;
