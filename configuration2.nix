@@ -77,6 +77,7 @@
 	bat
 	btop
 	tree
+	furnace
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
