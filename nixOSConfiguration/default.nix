@@ -4,6 +4,6 @@
 	imports = [
 		./additionalPackages.nix
 		./systemPackages.nix
-		./sytemSettings.nix
+		./systemSettings.nix
 	];
 }
