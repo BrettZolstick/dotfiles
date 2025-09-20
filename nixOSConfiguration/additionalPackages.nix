@@ -11,7 +11,8 @@
 		firefox
 		furnace
 		steam
-		vesktop	
+		vesktop
+		orca-slicer	
 	];
 			
 }
