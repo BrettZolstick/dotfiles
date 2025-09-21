@@ -19,7 +19,7 @@
 		nixosConfigurations.ethan-nixos = nixpkgs.lib.nixosSystem {
 
 			modules = [ 
-				./nixOSConfiguration
+				./config
 			];
 
 		};
